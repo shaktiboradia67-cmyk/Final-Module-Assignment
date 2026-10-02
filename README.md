@@ -1,4 +1,3 @@
-# Final-Module-Assignment
 # Final Module Assignment
 
 ## Overview
@@ -13,48 +12,36 @@ All five assignments were completed and submitted separately. The links to each 
 
 ### Day 1 – Hardware
 
-Repository:
+Repository:  
 https://github.com/shaktiboradia67-cmyk/Hardware
 
 ---
 
 ### Day 2 – Hardware-2
 
-Repository:
+Repository:  
 https://github.com/shaktiboradia67-cmyk/Hardware-2
 
 ---
 
 ### Day 3 – Hardware3
 
-Repository:
+Repository:  
 https://github.com/shaktiboradia67-cmyk/Hardware3
 
 ---
 
 ### Day 4 – Hardware-4
 
-Repository:
+Repository:  
 https://github.com/shaktiboradia67-cmyk/Hardware-4
 
 ---
 
 ### Day 5 – Hardware-5
 
-Repository:
+Repository:  
 https://github.com/shaktiboradia67-cmyk/Hardware-5
-
----
-
-## Summary
-
-| Day | Assignment | Repository |
-|-----|------------|------------|
-| Day 1 | Hardware | [View Repository](https://github.com/shaktiboradia67-cmyk/Hardware) |
-| Day 2 | Hardware-2 | [View Repository](https://github.com/shaktiboradia67-cmyk/Hardware-2) |
-| Day 3 | Hardware3 | [View Repository](https://github.com/shaktiboradia67-cmyk/Hardware3) |
-| Day 4 | Hardware-4 | [View Repository](https://github.com/shaktiboradia67-cmyk/Hardware-4) |
-| Day 5 | Hardware-5 | [View Repository](https://github.com/shaktiboradia67-cmyk/Hardware-5) |
 
 ---
 
@@ -63,6 +50,3 @@ https://github.com/shaktiboradia67-cmyk/Hardware-5
 This repository serves as a central reference for all Day 1 to Day 5 assignments.
 
 All individual assignment repositories are linked above.
-
-**Final Module Assignment Repository:**  
-https://github.com/shaktiboradia67-cmyk/Final-Module-Assignment
